@@ -29,9 +29,8 @@ Everyone in the group approves this on 2026-02-XX.
 - Run tests/linter before committing/pushing (when we have them set up)
 
 Signed (✅)
-
-- Malin
-- Jim
-- Emelie
-- Titus
+- Malin 
+- ✅ Jim 
+- Emelie 
+- Titus  
 - ✅ Sergio
