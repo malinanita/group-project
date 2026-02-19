@@ -27,6 +27,6 @@ Everyone in the group approves this on 2026-02-XX.
 Signed (✅)
 - Malin 
 - Jim 
-- Emelie 
+- Emelie ✅ Signed!
 - Titus  
 - Sergio
